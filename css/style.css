@@ -1,0 +1,11 @@
+h1{text-align: center;}
+hr{
+    width: 75%;
+    color: aqua;
+    font-weight: 50%;
+}
+body {
+    text-align : center;
+    font-size: 30pt;
+    background-color: blueviolet;
+}
